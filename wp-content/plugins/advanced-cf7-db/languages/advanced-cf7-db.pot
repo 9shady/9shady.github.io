@@ -1,0 +1,105 @@
+# Copyright (C) 2017 Advanced CF7 DB
+# This file is distributed under the same license as the Advanced CF7 DB package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Advanced CF7 DB 1.0.0\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/support/plugin/advanced-cf7-db\n"
+"POT-Creation-Date: 2017-07-12 08:15:35+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2017-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: admin/class-advanced-cf7-db-admin.php:111
+msgid "Import CSV"
+msgstr ""
+
+#: admin/class-advanced-cf7-db-admin.php:118
+#: admin/class-advanced-cf7-db-admin.php:129
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+
+#: admin/class-advanced-cf7-db-admin.php:215
+msgid "Export to..."
+msgstr ""
+
+#: admin/class-advanced-cf7-db-admin.php:216
+msgid "CSV"
+msgstr ""
+
+#: admin/class-advanced-cf7-db-admin.php:218
+msgid "Export"
+msgstr ""
+
+#: admin/class-advanced-cf7-db-admin.php:230
+msgid "Type something..."
+msgstr ""
+
+#: admin/class-advanced-cf7-db-admin.php:231
+msgid "Search"
+msgstr ""
+
+#: admin/class-advanced-cf7-db-admin.php:249
+msgid "Display Settings"
+msgstr ""
+
+#: admin/class-advanced-cf7-db-admin.php:415
+#: admin/class-advanced-cf7-db-admin.php:442
+#: admin/class-advanced-cf7-db-admin.php:469
+#: includes/vsz-cf7-db-function.php:265 includes/vsz-cf7-db-function.php:276
+#: includes/vsz-cf7-db-function.php:286 includes/vsz-cf7-db-function.php:296
+#: includes/vsz-cf7-db-function.php:306
+msgid "Loading..."
+msgstr ""
+
+#: admin/partials/contact_form_listing.php:229
+msgid "Select bulk action"
+msgstr ""
+
+#: admin/partials/contact_form_listing.php:231
+msgid "Bulk Actions"
+msgstr ""
+
+#: admin/partials/contact_form_listing.php:235
+msgid "Apply"
+msgstr ""
+
+#: admin/partials/contact_form_listing.php:240
+msgid "item"
+msgstr ""
+
+#: admin/partials/contact_form_listing.php:241
+msgid "items"
+msgstr ""
+
+#: admin/partials/contact_form_listing.php:247
+msgid "&laquo;"
+msgstr ""
+
+#: admin/partials/contact_form_listing.php:248
+msgid "&raquo;"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Advanced CF7 DB"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://wordpress.org/plugins/advanced-cf7-db/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Save all contact form 7 submitted data to the database, View, Export, "
+"ordering, Change field labels, Import data using CSV very easily."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Vsourz Digital"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://www.vsourz.com"
+msgstr ""

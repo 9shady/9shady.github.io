@@ -1,0 +1,309 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#: extensions/event-register-management/posts.php:10
+#: extensions/event-register-management/posts.php:53
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-02-18 16:37+0700\n"
+"PO-Revision-Date: 2016-02-18 16:37+0700\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-Generator: Eazy Po 0.9.5.3\n"
+
+#: extensions/event-register-management/helpers.php:23
+#: extensions/event-register-management/includes/post-tables.php:50
+#: extensions/event-register-management/options/posts/event-customer.php:52
+#: extensions/event-register-management/options/posts/event-customer.php:56
+msgid "Not paid yet"
+msgstr ""
+
+#: extensions/event-register-management/helpers.php:31
+msgid ": Registration"
+msgstr ""
+
+#: extensions/event-register-management/helpers.php:42
+msgid ": Thanks for your registry. Here is your detail information"
+msgstr ""
+
+#: extensions/event-register-management/manifest.php:7
+#: extensions/event-register-management/posts.php:11
+msgid "HT Event Tickets"
+msgstr ""
+
+#: extensions/event-register-management/manifest.php:8
+msgid "This extension provides management system for event registration"
+msgstr ""
+
+#: extensions/event-register-management/posts.php:6
+msgctxt "Post Type General Name"
+msgid "HT Event Tickets"
+msgstr ""
+
+#: extensions/event-register-management/posts.php:7
+msgctxt "Post Type Singular Name"
+msgid "HT Event Ticket"
+msgstr ""
+
+#: extensions/event-register-management/posts.php:8
+#: extensions/event-register-management/posts.php:9
+msgid "HT Event Ticket"
+msgstr ""
+
+#: extensions/event-register-management/posts.php:12
+#: extensions/event-register-management/posts.php:13
+msgid "New Customer"
+msgstr ""
+
+#: extensions/event-register-management/posts.php:14
+#: extensions/event-register-management/posts.php:57
+msgid "New"
+msgstr ""
+
+#: extensions/event-register-management/posts.php:15
+#: extensions/event-register-management/posts.php:58
+msgid "Edit"
+msgstr ""
+
+#: extensions/event-register-management/posts.php:16
+#: extensions/event-register-management/posts.php:59
+msgid "Update"
+msgstr ""
+
+#: extensions/event-register-management/posts.php:17
+#: extensions/event-register-management/posts.php:60
+msgid "View"
+msgstr ""
+
+#: extensions/event-register-management/posts.php:18
+#: extensions/event-register-management/posts.php:61
+msgid "Search"
+msgstr ""
+
+#: extensions/event-register-management/posts.php:19
+#: extensions/event-register-management/posts.php:62
+msgid "Not found"
+msgstr ""
+
+#: extensions/event-register-management/posts.php:20
+#: extensions/event-register-management/posts.php:63
+msgid "Not found in Trash"
+msgstr ""
+
+#: extensions/event-register-management/posts.php:23
+msgid "event-customer"
+msgstr ""
+
+#: extensions/event-register-management/posts.php:49
+msgctxt "Post Type General Name"
+msgid "HT Speakers"
+msgstr ""
+
+#: extensions/event-register-management/posts.php:50
+msgctxt "Post Type Singular Name"
+msgid "HT Speaker"
+msgstr ""
+
+#: extensions/event-register-management/posts.php:51
+msgid "HT Speaker"
+msgstr ""
+
+#: extensions/event-register-management/posts.php:52
+msgid "Speaker"
+msgstr ""
+
+#: extensions/event-register-management/posts.php:54
+msgid "Speakers"
+msgstr ""
+
+#: extensions/event-register-management/posts.php:55
+#: extensions/event-register-management/posts.php:56
+msgid "Add New"
+msgstr ""
+
+#: extensions/event-register-management/posts.php:66
+msgid "speaker"
+msgstr ""
+
+#: extensions/event-register-management/settings-options.php:7
+msgid "Mail Noti"
+msgstr ""
+
+#: extensions/event-register-management/settings-options.php:11
+msgid "Notification Email"
+msgstr ""
+
+#: extensions/event-register-management/settings-options.php:12
+msgid "This email will receive notification when a registration made"
+msgstr ""
+
+#: extensions/event-register-management/settings-options.php:16
+msgid "Mail template"
+msgstr ""
+
+#: extensions/event-register-management/settings-options.php:18
+msgid ""
+"Use {first_name} {last_name} {email} {phone} {total} {price} in your "
+"notification template"
+msgstr ""
+
+#: extensions/event-register-management/includes/ajax.php:17
+msgid "Please enter a valid email and do not leave the required fields empty!"
+msgstr ""
+
+#: extensions/event-register-management/includes/ajax.php:45
+msgid ""
+"Successfully, please wait for the website to redirect you to payment system!"
+msgstr ""
+
+#: extensions/event-register-management/includes/ajax.php:51
+msgid "Register fail, something wrong!"
+msgstr ""
+
+#: extensions/event-register-management/includes/ajax.php:61
+msgid "Processing..."
+msgstr ""
+
+#: extensions/event-register-management/includes/do-ajax.php:12
+msgid "Yes"
+msgstr ""
+
+#: extensions/event-register-management/includes/do-ajax.php:12
+#: extensions/event-register-management/includes/post-tables.php:53
+msgid "No"
+msgstr ""
+
+#: extensions/event-register-management/includes/payment.php:10
+#: extensions/event-register-management/options/posts/event-customer.php:54
+msgid "Paid - Paypal"
+msgstr ""
+
+#: extensions/event-register-management/includes/payment.php:22
+msgid "Registration done!"
+msgstr ""
+
+#: extensions/event-register-management/includes/post-tables.php:18
+msgctxt "column name"
+msgid "Name - Email"
+msgstr ""
+
+#: extensions/event-register-management/includes/post-tables.php:19
+msgctxt "plan-up"
+msgid "Checked"
+msgstr ""
+
+#: extensions/event-register-management/includes/post-tables.php:20
+msgctxt "plan-up"
+msgid "Ticket"
+msgstr ""
+
+#: extensions/event-register-management/includes/post-tables.php:21
+msgctxt "plan-up"
+msgid "Quantity"
+msgstr ""
+
+#: extensions/event-register-management/includes/post-tables.php:22
+msgctxt "plan-up"
+msgid "Total value"
+msgstr ""
+
+#: extensions/event-register-management/includes/post-tables.php:23
+msgctxt "plan-up"
+msgid "Payment Status"
+msgstr ""
+
+#: extensions/event-register-management/includes/post-tables.php:24
+msgctxt "plan-up"
+msgid "News register"
+msgstr ""
+
+#: extensions/event-register-management/includes/post-tables.php:25
+msgctxt "column name"
+msgid "Date Created"
+msgstr ""
+
+#: extensions/event-register-management/options/posts/event-customer.php:5
+msgid "Customer Data"
+msgstr ""
+
+#: extensions/event-register-management/options/posts/event-customer.php:11
+msgid "Check the box to mark the registration has been checked."
+msgstr ""
+
+#: extensions/event-register-management/options/posts/event-customer.php:15
+msgid "First Name"
+msgstr ""
+
+#: extensions/event-register-management/options/posts/event-customer.php:19
+msgid "Last name"
+msgstr ""
+
+#: extensions/event-register-management/options/posts/event-customer.php:23
+msgid "Registerd Email"
+msgstr ""
+
+#: extensions/event-register-management/options/posts/event-customer.php:27
+msgid "Phone"
+msgstr ""
+
+#: extensions/event-register-management/options/posts/event-customer.php:31
+msgid "Ticket"
+msgstr ""
+
+#: extensions/event-register-management/options/posts/event-customer.php:35
+msgid "Number of tickets"
+msgstr ""
+
+#: extensions/event-register-management/options/posts/event-customer.php:39
+msgid "Total value"
+msgstr ""
+
+#: extensions/event-register-management/options/posts/event-customer.php:43
+msgid "Currency code"
+msgstr ""
+
+#: extensions/event-register-management/options/posts/event-customer.php:47
+msgid "Payment method"
+msgstr ""
+
+#: extensions/event-register-management/options/posts/event-customer.php:51
+msgid "Payment Status"
+msgstr ""
+
+#: extensions/event-register-management/options/posts/event-customer.php:55
+msgid "Paid - Stripe"
+msgstr ""
+
+#: extensions/event-register-management/options/posts/event-customer.php:61
+msgid "News register"
+msgstr ""
+
+#: extensions/event-register-management/options/posts/speaker.php:5
+msgid "Speaker information"
+msgstr ""
+
+#: extensions/event-register-management/options/posts/speaker.php:9
+msgid "Name"
+msgstr ""
+
+#: extensions/event-register-management/options/posts/speaker.php:13
+msgid "Position"
+msgstr ""
+
+#: extensions/event-register-management/options/posts/speaker.php:16
+msgid "Social Network"
+msgstr ""
+
+#: extensions/event-register-management/options/posts/speaker.php:17
+msgid "Example: "
+msgstr ""
